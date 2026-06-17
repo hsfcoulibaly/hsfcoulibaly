@@ -1,6 +1,6 @@
 # Hi, I'm Hassan Coulibaly 👋
 
-Master's student at Georgia State University · Aspiring Software Engineer Intern
+Master's student at Georgia State University · Aspiring Software Engineer 
 
 I build things at the intersection of AI, computer vision, and full-stack web development — from multimodal AI research to real-world production apps.
 
