@@ -5,8 +5,9 @@ Master's student at Georgia State University · Aspiring Software Engineer Inter
 I build things at the intersection of AI, computer vision, and full-stack web development — from multimodal AI research to real-world production apps.
 
 - 🎓 MS Computer Science candidate @ Georgia State University (Atlanta, GA)
+- 🎓 Prospective PhD Candidate Fall 2026 Term Computer Science candidate @ Georgia State University (Atlanta, GA)  
 - 🤖 Research in multimodal AI — image-to-story generation, computer vision pipelines
-- 🌍 Building **Nehemie**, a real estate management platform for Côte d'Ivoire
+- 🌍 Building **VGI-CI**, a real estate management platform
 - 💡 Interests: machine learning, mobile development, full-stack web
 - 📬 fcoulibaly3@student.gsu.edu
 
